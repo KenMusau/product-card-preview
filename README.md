@@ -34,7 +34,7 @@ Desktop view for screens not less than 645px
 ![](./screenshots/Screenshot-desktop-view.png)
 
 Mobile view of screen not wider than 375px
-![](./screenshots/Screenshot-desktop-view.png)
+![](./screenshots/Screenshot-mobile-view.png)
 
 
 
