@@ -111,7 +111,7 @@ body{
 }
 
 /* responsive styling */
-@media (max-width:645px){
+@media (max-width:652px){
     .card_content{
         grid-template-columns: 1fr;
         /* display: flex;
@@ -136,7 +136,7 @@ body{
 @media (max-width:375px){
 
     .card_image img{
-        height: 200px;
+        height: 250px;
     }
     .card_text{
         padding: 16px;
